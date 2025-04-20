@@ -11,6 +11,7 @@ Giao Diện Trò Chơi
 ![Ảnh demo4](https://github.com/TAAgnes3110/ChessGame/blob/main/images/Screenshot%202025-04-20%20223017.png)
 ![Ảnh demo5](https://github.com/TAAgnes3110/ChessGame/blob/main/images/Screenshot%202025-04-20%20223035.png)
 
+
 Luật Chơi
 
 Bắt Đầu: Người chơi lần lượt di chuyển các quân cờ trên bàn cờ 8x8, bên Trắng đi trước.
