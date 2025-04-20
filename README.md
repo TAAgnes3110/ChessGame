@@ -8,11 +8,11 @@
 
 ##Luật Chơi
 
-Bắt Đầu: Người chơi lần lượt di chuyển các quân cờ trên bàn cờ 8x8, bên Trắng đi trước.
-Di Chuyển: Mỗi quân cờ di chuyển theo luật cờ vua (tốt đi thẳng, tượng đi chéo, v.v.).
-Ăn Quân: Chiếm quân cờ của đối thủ bằng cách di chuyển vào ô của chúng.
-Mục Tiêu: Chiếu tướng vua của đối thủ, khiến nó không còn nước đi hợp lệ để thoát bị bắt.
-Hướng Dẫn Cài Đặt
+.Bắt Đầu: Người chơi lần lượt di chuyển các quân cờ trên bàn cờ 8x8, bên Trắng đi trước.
+.Di Chuyển: Mỗi quân cờ di chuyển theo luật cờ vua (tốt đi thẳng, tượng đi chéo, v.v.).
+.Ăn Quân: Chiếm quân cờ của đối thủ bằng cách di chuyển vào ô của chúng.
+.Mục Tiêu: Chiếu tướng vua của đối thủ, khiến nó không còn nước đi hợp lệ để thoát bị bắt.
+.Hướng Dẫn Cài Đặt
 
 ##Cách cài Đặt
 1. Tải về dự án từ GitHub: https://github.com/TAAgnes3110/ChessGame.
@@ -22,6 +22,6 @@ Hướng Dẫn Cài Đặt
 5. Chạy file chính của trò chơi để bắt đầu chơi.
 
 ##Tác Giả
-Nguyễn Xuân Sáng - 223630709
-Đoàn Thế Nam - 22360698
-Vũ Tuấn Kiệt - 223630694
+.Nguyễn Xuân Sáng - 223630709
+.Đoàn Thế Nam - 22360698
+.Vũ Tuấn Kiệt - 223630694
