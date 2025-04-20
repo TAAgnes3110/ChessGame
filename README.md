@@ -11,12 +11,6 @@ Giao Diện Trò Chơi
 ![Ảnh demo4](https://github.com/TAAgnes3110/ChessGame/blob/main/images/Screenshot%202025-04-20%20223017.png)
 ![Ảnh demo5](https://github.com/TAAgnes3110/ChessGame/blob/main/images/Screenshot%202025-04-20%20223035.png)
 
-Menu Chính: Chọn chế độ chơi và bắt đầu ván cờ.
-Bàn Cờ: Tham gia ván cờ trên bàn 8x8 với danh sách nước đi và đồng hồ bấm giờ.
-Màn Hình Chiếu Tướng: Ăn mừng chiến thắng khi chiếu tướng thành công.
-Màn Hình Tạm Dừng: Tạm dừng ván cờ và chọn tiếp tục, chơi lại hoặc quay về menu.
-Hướng Dẫn Cách Chơi: Tìm hiểu luật chơi và cách điều khiển.
-
 Luật Chơi
 
 Bắt Đầu: Người chơi lần lượt di chuyển các quân cờ trên bàn cờ 8x8, bên Trắng đi trước.
